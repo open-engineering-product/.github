@@ -3,6 +3,8 @@
 
 **Assemble software. Compose capabilities. Deliver products.**
 
+![Open Engineering Product hero-banner.png](../assets/hero-banner.png)
+
 Welcome to **Open Engineering Product**, the Open Engineering organization dedicated to defining what constitutes a software product, how products are composed from reusable capabilities, and how they are versioned, validated, released and evolved.
 
 Open Engineering introduces a fundamental change in how we approach software development:
